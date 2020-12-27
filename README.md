@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/MooseandSquvirrel/blog_1_selenium_form.git">
-    <img src="images/seleniumPic2.png" alt="Selenium Logo" width="640" height="480">
+    <img src="images/seleniumPic2.png" alt="Selenium Logo" width="640" height="420">
   </a>
 </p>
 
@@ -108,10 +108,18 @@ and those who also understand the basics of modern OOP langauges like Python. Bo
 or two to get comfortable enough with to begin your Selenium automation journey. So if you don't know
 them yet don't fret! Links are provided to other Medium articles in my blog on good suggestions of where
 to begin studying those topics. That way you can return and automate boring or tedious tasks with Selenium!
-But seriously, the article, is more informative than what this will be
+But seriously, the article, way more informative and comprehensive than what below steps will be. Because it's
+a tutorial walk-thru. 
+<br/>
+<br/>
+Sooo... -> <a href="https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8">Not the Article.</a>
+:) 
+<br/>
 
-To show basic demo purposes of the application, please visit: <a href="https://sherlock-portfolio.herokuapp.com/">Sherlock Demo</a>
-<br />(Example names to search can be found in the drop-down from clicking the input box.)
+NOTE: This tutorial utilizes an actual company's form as an example. As stated in the blog, **Please don't
+spam their inbox.** 
+
+
 
 ### Prerequisites
 
@@ -124,23 +132,26 @@ To show basic demo purposes of the application, please visit: <a href="https://s
 * You will also have to get the driver executable that matches the browser you wish to automate or "drive".
 * This tutorial utilizes Chrome so: <a href="https://chromedriver.chromium.org/downloads">ChromeDriver Executables Site</a>
 * As mentioned in the "Set-up" section of that site, you must include the ChromeDriver location in your PATH environment variable.
-* **If you don't do this the ChromeDriver will not begin and crash the code.**
+* **If you don't add to the PATH the ChromeDriver will not begin and crash the code execution.**
+
 
 ### Installation
 
-1. Again, None :). 
+1. Git Clone.
    ```sh
-   N/A
+   git clone https://github.com/MooseandSquvirrel/blog_1_selenium_form.git
    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<p align="center">
-  <img width="800" height="500" src="https://github.com/MooseandSquvirrel/gif_sherlock/blob/master/full_sherly.gif">
-</p>
+![](images/seleniumPicUsage.png)
 
-_For more examples, try it out [Demo Again](https://sherlock-portfolio.herokuapp.com/)_
+The usages for learning automation such as this small simple program are endless. It is entirely up to your creativity!
+I have utilized bots to: speed up workflows in non-coding jobs, to simplify large tasks, and to even help with data analysis 
+on massive projects that saved hundreds of hours of work for myself and my teams.
+
+_For more examples, or info -> [Article Again](https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8)_
 
 
 <!-- LICENSE -->
