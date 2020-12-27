@@ -104,16 +104,17 @@ hand holding of step-by-step  how-to with this tutorial, visit:
 ## Getting Started
 
 This tutorial is meant for folks who have a general understanding of how to navigate the terminal,
-and those who also understand the basics of modern OOP langauges like Python. Both of these only take a week 
+and those who also understand the basics of modern OOP languages like Python. Both of these only take a week 
 or two to get comfortable enough with to begin your Selenium automation journey. So if you don't know
-them yet don't fret! Links are provided to other Medium articles in my blog on good suggestions of where
-to begin studying those topics. That way you can return and automate boring or tedious tasks with Selenium!
-But seriously, the article, way more informative and comprehensive than what below steps will be. Because it's
+them yet don't fret! Links are actually provided to other Medium articles in my blog that have great suggestions of where
+to begin studying those topics. That way you can return here and automate boring or tedious tasks with Selenium!
+
+For those of you who are ready now, the article is way more informative and comprehensive than what below steps will be. Because it's
 a tutorial walk-thru. 
 <br/>
 <br/>
-Sooo... -> <a href="https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8">Not the Article.</a>
-:) 
+Sooo... -> <a href="https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8">Not the Article</a>
+   :) 
 <br/>
 
 NOTE: This tutorial utilizes an actual company's form as an example. As stated in the blog, **Please don't
@@ -123,7 +124,7 @@ spam their inbox.**
 
 ### Prerequisites
 
-* Follow the Blog! All of this goes into much more thorough detail.
+* Follow the Blog! Which again goes into much more thorough detail.
 * Otherwise, you need to at the very least make sure to pip install these two packages:
   ```sh
   pip install selenium
@@ -141,7 +142,7 @@ spam their inbox.**
    ```sh
    git clone https://github.com/MooseandSquvirrel/blog_1_selenium_form.git
    ```
-
+   
 <!-- USAGE EXAMPLES -->
 ## Usage
 
