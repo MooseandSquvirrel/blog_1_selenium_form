@@ -41,7 +41,7 @@
     <a href="https://github.com/MooseandSquvirrel/blog_1_selenium_form.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://sherlock-portfolio.herokuapp.com/">View Tutorial Article</a>
+    <a href="https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8">View Tutorial Article</a>
     ·
     <a href="https://github.com/MooseandSquvirrel/blog_1_selenium_form.git">View Code</a>
     ·
