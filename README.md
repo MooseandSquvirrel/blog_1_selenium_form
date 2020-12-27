@@ -86,8 +86,13 @@
 </p>
 
 Welcome welcome welcome! This is the supplementary code to pair with the Medium article I
-wrote for beginning your journey automating with Selenium. To get a true in-depth, wordy, 
-hand holding of step-by-step  how-to with this tutorial, visit:
+wrote for beginning your journey automating with Selenium. Selenium is an incredibly fun and powerful 
+open-source project that is traditionally used for QA testing. However, you can use it to build web bots that do almost whatever you can think of. 
+This little bot simply shows the basics of how to select and fill out a form on a company website with a small commandline program using
+Selenium's Python version.
+<br />
+<br />
+To get a true in-depth, wordy, hand holding of step-by-step  how-to with this tutorial, visit:
 <a href="https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8">MY MEDIUM BLOG!</a>
 <br />
 <br />
