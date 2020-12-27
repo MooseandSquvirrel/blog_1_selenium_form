@@ -93,7 +93,7 @@ Selenium's Python version.
 <br />
 <br />
 To get a true in-depth, wordy, hand holding of step-by-step  how-to with this tutorial, visit:
-<a href="https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8">MY MEDIUM BLOG!</a>
+<a href="https://medium.com/@andygardnerucla/automate-your-work-with-selenium-2578d5bf61a8">My Medium Blog</a>.
 <br />
 <br />
 
