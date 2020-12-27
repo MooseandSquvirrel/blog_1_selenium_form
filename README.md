@@ -133,9 +133,7 @@ spam their inbox.**
 * You will also have to get the driver executable that matches the browser you wish to automate or "drive".
 * This tutorial utilizes Chrome so: <a href="https://chromedriver.chromium.org/downloads">ChromeDriver Executables Site</a>
 * As mentioned in the "Set-up" section of that site, you must include the ChromeDriver location in your PATH environment variable.
-<br />
-* *If you don't add to the PATH the ChromeDriver will not begin and crash the code execution.*
-<br />
+* **If you don't add to the PATH the ChromeDriver will not begin and crash the code execution.** 
 * This code uses Python 3. If you have a different version, you will need to adjust the command to execute the script as well as some other
 tweaks that will become apparent with the error outputs. If you get stuck go to the tutorial or dive into the wonders of search engines!
 
